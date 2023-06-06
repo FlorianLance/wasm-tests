@@ -1,7 +1,8 @@
 main.obj
 mainwindow.obj
+names_processing.obj
 test-wasm.js_plugin_import.obj
-test-wasm.js_qml_plugin_import.obj
+qrc_resources.obj
 moc_mainwindow.obj
 C:/Qt/6.4.2/wasm_32/lib/objects-Release/QWasmIntegrationPlugin_resources_1/.rcc/qrc_wasmfonts.cpp.o
 C:/Qt/6.4.2/wasm_32/lib/objects-Release/Gui_resources_1/.rcc/qrc_qpdf.cpp.o
@@ -32,15 +33,12 @@ C:/Qt/6.4.2/wasm_32/./qml/QtQml/Models/objects-Release/QmlModels_resources_1/.rc
 C:/Qt/6.4.2/wasm_32/./qml/QtQml/objects-Release/Qml_resources_1/.rcc/qrc_qmake_QtQml.cpp.o
 C:/Qt/6.4.2/wasm_32/lib/libQt6QuickWidgets.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6Widgets.a
-C:/Qt/6.4.2/wasm_32/qml/QtQuick/libqtquick2plugin.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6Quick.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6OpenGL.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6Gui.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6BundledHarfbuzz.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6BundledFreetype.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6BundledLibpng.a
-C:/Qt/6.4.2/wasm_32/qml/QtQml/libqmlplugin.a
-C:/Qt/6.4.2/wasm_32/qml/QtQml/Models/libmodelsplugin.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6QmlModels.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6Qml.a
 C:/Qt/6.4.2/wasm_32/lib/libQt6Network.a
